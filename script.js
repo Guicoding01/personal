@@ -52,7 +52,7 @@ function updateCarousel_2() {
     imgCarousel.style.transform = 'translateX(' + newTransformValue + ')';
 }
 
-// efeito paralax
+// efeito paralaxe
 
 window.sr = ScrollReveal({reset : true});
 
